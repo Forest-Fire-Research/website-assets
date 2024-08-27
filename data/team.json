@@ -1,95 +1,94 @@
 {
-  "team" : [
-    {
-      "name": "Kshirasagar Naik",
-      "type": "Professor",
-      "image": "Author_Sagar-Naik",
-      "bio": "He received the B.Sc. degree in engineering from Sambalpur University, India, and the M.Tech. degree from IIT Kharagpur, Kharagpur, the M.Math. degree in computer science from the University of Waterloo, and the Ph.D. degree in electrical and computer engineering from Concordia University, Montreal. He was a Software Developer with Wipro Information Technology Ltd., Bangalore, for three years. He was a Faculty Member at the University of Aizu, Japan, and Carleton University, Ottawa. He is a Full Professor at the Department of Electrical and Computer Engineering, University of Waterloo. His research interests include dependable wireless communication, resource allocation in wireless networks, mobile computing, vehicular networks, energy efficiency of smartphones and tablet computers, energy performance testing of mobile apps, communication protocols for smart power grids, and energy performance testing of software systems running on servers. He was a recipient of the Outstanding Performance Award in the Faculty of Engineering at the University of Waterloo in 2013. His book Software Testing and Quality Assurance: Theory and Practice (Wiley, 2008) has been adopted as a text in many universities around the world, and he has co-authored a second book Software Evolution and Maintenance (Wiley, 2014). He was a Co-Guest Editor of three special issues of the IEEE Journal on Selected Areas in Communications. He was an Associate Editor of the Journal of Peer-to-Peer Networking and Applications, the International Journal of Parallel, Emergent and Distributed System, and the IEEE Transactions on Parallel and Distributed Systems. He is currently serving as a Regional Editor (America) for the IEEE Journal of Circuits, Systems, and Computers and an Associate Editor for the International Journal of Distributed Sensor Networks.",
-      "github": null,
-      "link": null,
-      "linkedin": null,
-      "orcid": "0000-0002-1064-4905",
-    },
-    {
-      "name": "Marzia Zaman",
-      "type": "Industry Partner",
-      "image": "Author_Marzia",
-      "bio": "She received the M.Sc. and Ph.D. degrees in electrical and computer engineering from the Memorial University of Newfoundland, Canada, in 1993 and 1996, respectively. She started her career at Nortel Networks in 1996, where she joined the Software Engineering Analysis Laboratory (SEAL), and later joined the Optera Packet Core Project, as a Software Developer. In addition, she has many years of industry experience, as a Researcher and a Software Designer with Accelight Networks, Excelocity, Sanstream Technology, and Cistel Technology Inc. Since 2009, she has been with the Centre for Energy and Power Electronics Research, Queen’s University, Canada, and one of its industry collaborators, Cistel Technology Inc., on multiple power engineering projects.",
-      "github": null,
-      "link": null,
-      "linkedin": null,
-      "orcid": "0000-0002-0610-0470",
-    },
-    {
-      "name": "Chung-Horng Lung",
-      "type": "Professor",
-      "image": "Author_Chung-Horng-Lung",
-      "bio": "He received the B.S. degree in computer science and engineering from Chung-Yuan Christian University, Taiwan. He received an M.S. and Ph.D. in computer science and engineering from Arizona State University. He was with Nortel Networks from 1995 to 2001. In 2001, he joined the Department of Systems and Computer Engineering, at Carleton University, Ottawa, Canada, where he is currently a Professor. His research interests include communication networks, software engineering, and cloud computing",
-      "github": null,
-      "link": "https://sce.carleton.ca/faculty/lung.html",
-      "linkedin": null,
-      "orcid": "0000-0002-5662-490X",
-    },
-    {
-      "name": "Srinivas Sampalli",
-      "type": "Professor",
-      "image": "Author_SriniSampalli",
-      "bio": "He received the B.E. degree from Bangalore University, in 1985, and the Ph.D. degree from the Indian Institute of Science (IISc.), Bengaluru, India, in 1989. He is currently a Professor and the 3M National Teaching Fellow with the Faculty of Computer Science, Dalhousie University. He has led numerous industry-driven research projects on the Internet of Things, wireless security, vulnerability analysis, intrusion detection and prevention, and applications of emerging wireless technologies in healthcare. He also supervises six Ph.D. and ten master’s students in his Emerging Wireless Technologies (MYTech) Lab. He has supervised over 150 graduate students in his career. His primary joy is in inspiring and motivating students with his enthusiastic teaching. He received the Dalhousie Faculty of Science Teaching Excellence Award, the Dalhousie Alumni Association Teaching Award, the Association of Atlantic Universities’ Distinguished Teacher Award, a teaching award instituted in his name by the students within his faculty, and the 3M National Teaching Fellowship, Canada’s most prestigious teaching acknowledgment. Since September 2016, he has been holding the honorary position of Vice President (Canada) and the International Federation of National Teaching Fellows (IFNTF), and a consortium of national teaching award winners from around the world.",
-      "github": null,
-      "link": null,
-      "linkedin": null,
-      "orcid": "0000-0002-8742-5786",
-    },
-    {
-      "name": "Dr. Thambirajah Ravichandran",
-      "type": "Industry Partner",
-      "image": "Author_Ravi",
-      "bio": "He s a senior Research Scientist at Hegyi Geomatics, Ottawa, Canada where he advises clients and partners, and liaises with university research teams on various machine learning and deep learning projects. Dr. Ravichandran has an electrical engineering bachelor’s degree from IIT Madras, India, a master’s in electrical engineering and a PhD in Electrical and Computer Engineering both from the University of Waterloo. He has more than 30 years of both academic and industrial experience performing applied research in various domains, ranging from design optimization, pattern recognition, robotics and control systems, machine learning and deep learning applications for modelling natural and engineered systems. His recent work centers on the development of data-driven decision support systems for various industrial applications using deep learning techniques.",
-      "github": null,
-      "link": null,
-      "linkedin": null,
-      "orcid": "0000-0002-3579-2832",
-    },
-    {
-      "name": "Richard Purcell",
-      "type": "Ph.D. Researcher",
-      "image": "Author_Richard",
-      "bio": "He is a PhD Candidate at Dalhousie University, conducting research in the MYTech Lab under the supervision of Dr. Srinivas Sampalli. His research focuses on the Internet of Things (IoT) for the early detection and prediction of wildland fires. Richard has a robust background in industry, where he worked for multiple years prior to his doctoral studies, bringing practical experience to his academic research. His work aims to advance wildfire management through innovative IoT solutions.",
-      "github": null,
-      "link": null,
-      "linkedin": null,
-      "orcid": "0009-0005-1526-8338",
-    },
-    {
-      "name": "Abdul Mutakabbir",
-      "type": "Ph.D. Researcher",
-      "image": "Author_Abdul-Mutakabbir",
-      "bio": "He received the MASc. degree with a specialization in Data Science from Carleton University, Ottawa, Canada. He is currently pursuing his Ph.D. from the Department of Data Science, Analytics and Artificial Intelligence at Carleton University. He started his work experience with RCI, Hyderabad, India. He was a Software Developer with Hitachi Vantara, Hyderabad for two years. He later worked as a project lead for an artificial intelligence company in Ottawa, Canada for one year. His research interests include computer graphics, distributed computing, machine learning, and climate science. ",
-      "github": "AbdulMutakabbir",
-      "link": null,
-      "linkedin": "abdul-mutakabbir-15ab41188",
-      "orcid": "0009-0004-9850-8239",
-    },
-    {
-      "name": "Manav",
-      "type": "MASc. Researcher",
-      "image": null,
-      "bio": null,
-      "github": null,
-      "link": null,
-      "linkedin": null,
-      "orcid": null,
-    },
-    {
-      "name": "Ursala",
-      "type": "MASc. Researcher",
-      "image": null,
-      "bio": null,
-      "github": null,
-      "link": null,
-      "linkedin": null,
-      "orcid": null,
-    }
-  ]
-
+    "team": [
+        {
+            "name": "Kshirasagar Naik",
+            "type": "Professor",
+            "image": "Author_Sagar-Naik",
+            "bio": "He received the B.Sc. degree in engineering from Sambalpur University, India, and the M.Tech. degree from IIT Kharagpur, Kharagpur, the M.Math. degree in computer science from the University of Waterloo, and the Ph.D. degree in electrical and computer engineering from Concordia University, Montreal. He was a Software Developer with Wipro Information Technology Ltd., Bangalore, for three years. He was a Faculty Member at the University of Aizu, Japan, and Carleton University, Ottawa. He is a Full Professor at the Department of Electrical and Computer Engineering, University of Waterloo. His research interests include dependable wireless communication, resource allocation in wireless networks, mobile computing, vehicular networks, energy efficiency of smartphones and tablet computers, energy performance testing of mobile apps, communication protocols for smart power grids, and energy performance testing of software systems running on servers. He was a recipient of the Outstanding Performance Award in the Faculty of Engineering at the University of Waterloo in 2013. His book Software Testing and Quality Assurance: Theory and Practice (Wiley, 2008) has been adopted as a text in many universities around the world, and he has co-authored a second book Software Evolution and Maintenance (Wiley, 2014). He was a Co-Guest Editor of three special issues of the IEEE Journal on Selected Areas in Communications. He was an Associate Editor of the Journal of Peer-to-Peer Networking and Applications, the International Journal of Parallel, Emergent and Distributed System, and the IEEE Transactions on Parallel and Distributed Systems. He is currently serving as a Regional Editor (America) for the IEEE Journal of Circuits, Systems, and Computers and an Associate Editor for the International Journal of Distributed Sensor Networks.",
+            "github": null,
+            "link": null,
+            "linkedin": null,
+            "orcid": "0000-0002-1064-4905"
+        },
+        {
+            "name": "Marzia Zaman",
+            "type": "Industry Partner",
+            "image": "Author_Marzia",
+            "bio": "She received the M.Sc. and Ph.D. degrees in electrical and computer engineering from the Memorial University of Newfoundland, Canada, in 1993 and 1996, respectively. She started her career at Nortel Networks in 1996, where she joined the Software Engineering Analysis Laboratory (SEAL), and later joined the Optera Packet Core Project, as a Software Developer. In addition, she has many years of industry experience, as a Researcher and a Software Designer with Accelight Networks, Excelocity, Sanstream Technology, and Cistel Technology Inc. Since 2009, she has been with the Centre for Energy and Power Electronics Research, Queen’s University, Canada, and one of its industry collaborators, Cistel Technology Inc., on multiple power engineering projects.",
+            "github": null,
+            "link": null,
+            "linkedin": null,
+            "orcid": "0000-0002-0610-0470"
+        },
+        {
+            "name": "Chung-Horng Lung",
+            "type": "Professor",
+            "image": "Author_Chung-Horng-Lung",
+            "bio": "He received the B.S. degree in computer science and engineering from Chung-Yuan Christian University, Taiwan. He received an M.S. and Ph.D. in computer science and engineering from Arizona State University. He was with Nortel Networks from 1995 to 2001. In 2001, he joined the Department of Systems and Computer Engineering, at Carleton University, Ottawa, Canada, where he is currently a Professor. His research interests include communication networks, software engineering, and cloud computing",
+            "github": null,
+            "link": "https://sce.carleton.ca/faculty/lung.html",
+            "linkedin": null,
+            "orcid": "0000-0002-5662-490X"
+        },
+        {
+            "name": "Srinivas Sampalli",
+            "type": "Professor",
+            "image": "Author_SriniSampalli",
+            "bio": "He received the B.E. degree from Bangalore University, in 1985, and the Ph.D. degree from the Indian Institute of Science (IISc.), Bengaluru, India, in 1989. He is currently a Professor and the 3M National Teaching Fellow with the Faculty of Computer Science, Dalhousie University. He has led numerous industry-driven research projects on the Internet of Things, wireless security, vulnerability analysis, intrusion detection and prevention, and applications of emerging wireless technologies in healthcare. He also supervises six Ph.D. and ten master’s students in his Emerging Wireless Technologies (MYTech) Lab. He has supervised over 150 graduate students in his career. His primary joy is in inspiring and motivating students with his enthusiastic teaching. He received the Dalhousie Faculty of Science Teaching Excellence Award, the Dalhousie Alumni Association Teaching Award, the Association of Atlantic Universities’ Distinguished Teacher Award, a teaching award instituted in his name by the students within his faculty, and the 3M National Teaching Fellowship, Canada’s most prestigious teaching acknowledgment. Since September 2016, he has been holding the honorary position of Vice President (Canada) and the International Federation of National Teaching Fellows (IFNTF), and a consortium of national teaching award winners from around the world.",
+            "github": null,
+            "link": null,
+            "linkedin": null,
+            "orcid": "0000-0002-8742-5786"
+        },
+        {
+            "name": "Dr. Thambirajah Ravichandran",
+            "type": "Industry Partner",
+            "image": "Author_Ravi",
+            "bio": "He s a senior Research Scientist at Hegyi Geomatics, Ottawa, Canada where he advises clients and partners, and liaises with university research teams on various machine learning and deep learning projects. Dr. Ravichandran has an electrical engineering bachelor’s degree from IIT Madras, India, a master’s in electrical engineering and a PhD in Electrical and Computer Engineering both from the University of Waterloo. He has more than 30 years of both academic and industrial experience performing applied research in various domains, ranging from design optimization, pattern recognition, robotics and control systems, machine learning and deep learning applications for modelling natural and engineered systems. His recent work centers on the development of data-driven decision support systems for various industrial applications using deep learning techniques.",
+            "github": null,
+            "link": null,
+            "linkedin": null,
+            "orcid": "0000-0002-3579-2832"
+        },
+        {
+            "name": "Richard Purcell",
+            "type": "Ph.D. Researcher",
+            "image": "Author_Richard",
+            "bio": "He is a PhD Candidate at Dalhousie University, conducting research in the MYTech Lab under the supervision of Dr. Srinivas Sampalli. His research focuses on the Internet of Things (IoT) for the early detection and prediction of wildland fires. Richard has a robust background in industry, where he worked for multiple years prior to his doctoral studies, bringing practical experience to his academic research. His work aims to advance wildfire management through innovative IoT solutions.",
+            "github": null,
+            "link": null,
+            "linkedin": null,
+            "orcid": "0009-0005-1526-8338"
+        },
+        {
+            "name": "Abdul Mutakabbir",
+            "type": "Ph.D. Researcher",
+            "image": "Author_Abdul-Mutakabbir",
+            "bio": "He received the MASc. degree with a specialization in Data Science from Carleton University, Ottawa, Canada. He is currently pursuing his Ph.D. from the Department of Data Science, Analytics and Artificial Intelligence at Carleton University. He started his work experience with RCI, Hyderabad, India. He was a Software Developer with Hitachi Vantara, Hyderabad for two years. He later worked as a project lead for an artificial intelligence company in Ottawa, Canada for one year. His research interests include computer graphics, distributed computing, machine learning, and climate science. ",
+            "github": "AbdulMutakabbir",
+            "link": null,
+            "linkedin": "abdul-mutakabbir-15ab41188",
+            "orcid": "0009-0004-9850-8239"
+        },
+        {
+            "name": "Manav",
+            "type": "MASc. Researcher",
+            "image": null,
+            "bio": null,
+            "github": null,
+            "link": null,
+            "linkedin": null,
+            "orcid": null
+        },
+        {
+            "name": "Ursala",
+            "type": "MASc. Researcher",
+            "image": null,
+            "bio": null,
+            "github": null,
+            "link": null,
+            "linkedin": null,
+            "orcid": null
+        }
+    ]
 }
