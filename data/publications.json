@@ -1,0 +1,87 @@
+{
+    "papers" : [
+        {
+            "title":"Spatio-Temporal Agnostic Deep Learning Modeling of Forest Fire Prediction Using Weather Data", 
+            "authors":"Mutakabbir, Abdul and Lung, Chung-Horng and Ajila, Samuel A. and Zaman, Marzia and Naik, Kshirasagar and Purcell, Richard and Sampalli, Srinivas",
+            "publisher":"IEEE 47th Annual Computers, Software, and Applications Conference", 
+            "year":2023,  
+            "volume":null,
+            "number":null,
+            "pages":"346-351",
+            "keywords":"Deep learning;Data preprocessing;Forestry;Vegetation;Predictive models;Prediction algorithms;Data models;Forest Fires;Fire Weather Index;Machine Learning;Deep Learning;Data Sampling;Dataset Balancing;Big Data Analytics;Data Mining",
+            "abstract": "This research provides a spatio-temporal agnostic framework based on subsampling to generate generic deep learning models using publicly available weather data and to predict the probability of forest fire and severity. The aim is to show that this framework can be used to subsample and generate a balanced dataset for generic deep learning models to improve predictions for forest fires. The framework works for binary classification and regression deep learning models. It also works with limited variations between fire and non-fire data. Using this framework, 45 of the binary classification models built produced an F1Score greater than 0.95 while 35 of 54 regression models produced an R 2 Score greater than 0.91.",
+            "doi":"10.1109/COMPSAC57700.2023.00054",
+            "publisherShort": "COMPSAC",
+            "location": "Torino, Italy",
+            "logo": "https://ieeecompsac.computer.org/2023/wp-content/uploads/sites/14/2023/05/cropped-compsac_white-150x150.png"
+        },
+        {
+            "title":"Forest Fire Prediction Using Multi-Source Deep Learning",
+            "authors":"Mutakabbir, Abdul and Lung, Chung-Horng and Ajila, Samuel A. and Zaman, Marzia and Naik, Kshirasagar and Purcell, Richard and Sampalli, Srinivas",
+            "editor":"Tan, Zhiyuan and Wu, Yulei and Xu, Min",
+            "booktitle":"Big Data Technologies and Applications",
+            "year":"2024",
+            "publisher":"Springer Nature Switzerland",
+            "publisherShort":"EAI BDTA",
+            "address":"Cham",
+            "pages":"135-146",
+            "abstract":"Forest fire prediction is an important aspect of combating forest fires. This research focuses on the effectiveness of multi-source data (lightning, hydrometric and weather) in the probability prediction of forest fires using deep learning. The results showed that the weather model had the best predictive power (average F1 Score = 0.955 F1 Score=0.955). The lightning model had an average F1 Score = 0.924 F1 Score=0.924, while the hydrometric model had an average F1 Score = 0.690 F1 Score=0.690. The single-source models were then merged to see the impact of the multi-source data. The multi-source model had an average F1 Score = 0.929 F1 Score = 0.929, whereas the average F1 Score for the previous three single-source model was 0.856. The results showed that the multi-source model performed similarly to the best-performing single-source model (weather) with a 60% reduction in training data. The multi-source model had a negligible impact from the poor-performing single-source model (hydrometric).",
+            "isbn":"978-3-031-52265-9",
+            "doi":"10.1007/978-3-031-52265-9_9",
+            "logo": "https://infoscale.eai-conferences.org/2024/wp-content/uploads/sites/916/2024/08/EAI-BDTA-logo@1200px.png"
+        },
+        {
+            "authors":"Purcell, Richard and Naik, Kshirasagar and Lung, Chung-Horng and Zaman, Marzia and Sampalli, Srinivas and Mutakabbir, Abdul",
+            "booktitle":"IEEE International Conference on Internet of Things and Intelligence Systems", 
+            "title":"A Framework Using Federated Learning for IoT-Based Forest Fire Prediction", 
+            "year":"2023",
+            "volume":"",
+            "number":"",
+            "publisherShort":"IoTaIS",
+            "pages":"133-139",
+            "abstract":"Forest fires are a growing threat to human commu-nities. The Canadian Wildland Fire Information System gives realtime information to fire management agencies and the public. However, machine learning use for forest fire ignition classification prediction within the platform and ones like it, is yet to be fully realized. We propose a novel framework that uses federated machine learning combined with Internet of Things technologies, for forest fire ignition classification prediction. The framework incorporates distributed IoT weather stations deployed in an area prone to forest fires. We find comparable prediction accuracy between a federated machine learning system and a central server machine learning system. Our federated system, trained on an imbalanced dataset comprising 5,008,365 non-ignition cases and 45,411 ignition instances, has shown encouraging outcomes. It attained an Accuracy of around 0.76 and a ROC-AUC of about 0.80. The performance is on par with other systems, indicating that our approach is effective in classifying forest fire ignitions with a spatial resolution markedly superior to that of centralized systems.",
+            "keywords":"Training;Soft sensors;Forestry;Ignition;Predictive models;Data models;Internet of Things;forest fire;federated learning;LSTM", 
+            "doi":"10.1109/IoTaIS60147.2023.10346044"
+        },
+        {
+            "authors":"Kaur, Parveen and Naik, Kshirasagar and Purcell, Richard and Sampalli, Srinivas and Lung, Chung-Horng and Zaman, Marzia and Mutakabbir, Abdul",
+            "booktitle":"IEEE International Conference on Big Data", 
+            "title":"A Data Integration Framework with Multi-Source Big Data for Enhanced Forest Fire Prediction", 
+            "year":"2023",
+            "volume":"",
+            "number":"",
+            "pages":"344-351",
+            "publisherShort": "BigData",
+            "keywords":"Sensitivity;Satellites;Data integration;Forestry;Big Data;History;Spatial resolution;Forest Fire;Imbalanced data;Downsampling;Machine Learning;Random Forest;XGBoost",
+            "doi":"10.1109/BigData59044.2023.10386816",
+            "abstract":"Forest fires pose imminent threats to ecosystems and human lives, necessitating precise prediction for effective mitigation. The challenges include managing extensive big data and addressing data imbalance. This study introduces a data integration framework that integrates data from remote sensing satellites, ground-based weather stations, and other sources to create a comprehensive weather database spanning 18 years in Alberta, Canada. Machine learning methods, including Random Forest, eXtreme Gradient Boosting, and Multi-Layer Perceptron are employed to evaluate forest fire prediction performance, overcoming the challenge of data imbalance through changes in spatial resolution, spatio-subsamping, and downsampling techniques. XGBoost exhibits results with an ROC-AUC score of 87.2% and a sensitivity of 75%.Using meteorological data and fire history improves prediction, demonstrating big data and machine learning’s role in addressing forest fire challenges."
+        },
+        {
+            "title":"Big Data Synthesis and Class Imbalance Rectification for Enhanced Forest Fire Classification Modeling",
+            "authors":"Fatemeh Tavakoli. and Kshirasagar Naik. and Marzia Zaman. and Richard Purcell. and Srinivas Sampalli. and Abdul Mutakabbir. and Chung{-}Horng Lung. and Thambirajah Ravichandran.",
+            "booktitle":"Proceedings of the 16th International Conference on Agents and Artificial Intelligence",
+            "year":"2024",
+            "pages":"264-275",
+            "publisher":"SciTePress",
+            "organization":"INSTICC",
+            "publisherShort": "ICAART",
+            "volume":"2",
+            "doi":"10.5220/0012363000003636",
+            "isbn":"978-989-758-680-4",
+            "issn":"2184-433X",
+            "abstract":"Forest fires have been escalating in frequency and intensity across Canada in recent times. This study employs machine learning techniques and builds a dataset framework utilizing Copernicus climate reanalysis data combined with historical fire data to develop a fire classification framework. Three algorithms, Random Forest, XGBoost, and LightGBM, were evaluated. Given the pronounced class imbalance of 154:1 between “non-fire” and “fire” events, we rigorously employed two re-sampling strategies: Spatiotemporal, focusing on spatial and seasonal considerations, and Technique-Driven, leveraging advanced algorithmic approaches. Ultimately, XGBoost combined with NearMiss Version 3 in a 0.09 sampling ratio between “non-fire” and “fire” events yielded the best results: 98.08% precision, 86.06% sensitivity, and 93.03% specificity."
+        },
+        {
+            "title": "A Federated Learning Framework based on Spatio-Temporal Agnostic Subsampling (STAS) for Forest Fire Prediction",
+            "authors":"Mutakabbir, Abdul and Lung, Chung-Horng and Ajila, Samuel A. and Zaman, Marzia and Naik, Kshirasagar and Purcell, Richard and Sampalli, Srinivas",
+            "doi": "10.1109/COMPSAC61105.2024.00056",
+            "abstract": "Prevention of forest fires increasingly impacted by climate change is essential to maintain ecological balance, preserve natural resources, prevent economic loss, and protect human and animal life. Data for forest fires is available from multiple sources and is huge. Federated learning can be implemented to distribute the computing across multiple edge devices by saving transmission costs, protecting data privacy, and maintaining security with no single point of failure as local models exist across multiple resources in different geographic regions. The proposed framework extends the Spatio-Temporal Agnostic Subsampling (STAS) technique by distributing the data into multiple computation nodes to leverage federated learning. It was found that the models trained using federated learning on weather data gained on average 0.3 in F1 for classifying the occurrence of fire. This study also demonstrates how to optimally choose the sources of data for either predicting the occurrence of fire or the severity of fire",
+            "publisher": "IEEE 48th Annual Computers, Software, and Applications Conference",
+            "publisherShort": "COMPSAC",
+            "year": "2024",
+            "pages": "350-359",
+            "location": "Osaka, Japan",
+            "logo": "https://ieeecompsac.computer.org/2023/wp-content/uploads/sites/14/2023/05/cropped-compsac_white-150x150.png"
+        }
+    ]
+}
