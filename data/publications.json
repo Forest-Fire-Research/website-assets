@@ -25,6 +25,7 @@
             "publisherShort":"EAI BDTA",
             "address":"Cham",
             "pages":"135-146",
+            "location":"Edinburgh, UK",
             "abstract":"Forest fire prediction is an important aspect of combating forest fires. This research focuses on the effectiveness of multi-source data (lightning, hydrometric and weather) in the probability prediction of forest fires using deep learning. The results showed that the weather model had the best predictive power (average F1 Score = 0.955 F1 Score=0.955). The lightning model had an average F1 Score = 0.924 F1 Score=0.924, while the hydrometric model had an average F1 Score = 0.690 F1 Score=0.690. The single-source models were then merged to see the impact of the multi-source data. The multi-source model had an average F1 Score = 0.929 F1 Score = 0.929, whereas the average F1 Score for the previous three single-source model was 0.856. The results showed that the multi-source model performed similarly to the best-performing single-source model (weather) with a 60% reduction in training data. The multi-source model had a negligible impact from the poor-performing single-source model (hydrometric).",
             "isbn":"978-3-031-52265-9",
             "doi":"10.1007/978-3-031-52265-9_9",
