@@ -1,6 +1,7 @@
 {
     "papers" : [
         {
+            "id":1,
             "title":"Spatio-Temporal Agnostic Deep Learning Modeling of Forest Fire Prediction Using Weather Data", 
             "authors":"Mutakabbir, Abdul and Lung, Chung-Horng and Ajila, Samuel A. and Zaman, Marzia and Naik, Kshirasagar and Purcell, Richard and Sampalli, Srinivas",
             "publisher":"IEEE 47th Annual Computers, Software, and Applications Conference", 
@@ -16,6 +17,7 @@
             "logo": "https://ieeecompsac.computer.org/2023/wp-content/uploads/sites/14/2023/05/cropped-compsac_white-150x150.png"
         },
         {
+            "id":3,
             "title":"Forest Fire Prediction Using Multi-Source Deep Learning",
             "authors":"Mutakabbir, Abdul and Lung, Chung-Horng and Ajila, Samuel A. and Zaman, Marzia and Naik, Kshirasagar and Purcell, Richard and Sampalli, Srinivas",
             "editor":"Tan, Zhiyuan and Wu, Yulei and Xu, Min",
@@ -32,6 +34,7 @@
             "logo": "https://infoscale.eai-conferences.org/2024/wp-content/uploads/sites/916/2024/08/EAI-BDTA-logo@1200px.png"
         },
         {
+            "id":4,
             "authors":"Purcell, Richard and Naik, Kshirasagar and Lung, Chung-Horng and Zaman, Marzia and Sampalli, Srinivas and Mutakabbir, Abdul",
             "booktitle":"IEEE International Conference on Internet of Things and Intelligence Systems", 
             "title":"A Framework Using Federated Learning for IoT-Based Forest Fire Prediction", 
@@ -45,6 +48,7 @@
             "doi":"10.1109/IoTaIS60147.2023.10346044"
         },
         {
+            "id":6,
             "authors":"Kaur, Parveen and Naik, Kshirasagar and Purcell, Richard and Sampalli, Srinivas and Lung, Chung-Horng and Zaman, Marzia and Mutakabbir, Abdul",
             "booktitle":"IEEE International Conference on Big Data", 
             "title":"A Data Integration Framework with Multi-Source Big Data for Enhanced Forest Fire Prediction", 
@@ -58,6 +62,7 @@
             "abstract":"Forest fires pose imminent threats to ecosystems and human lives, necessitating precise prediction for effective mitigation. The challenges include managing extensive big data and addressing data imbalance. This study introduces a data integration framework that integrates data from remote sensing satellites, ground-based weather stations, and other sources to create a comprehensive weather database spanning 18 years in Alberta, Canada. Machine learning methods, including Random Forest, eXtreme Gradient Boosting, and Multi-Layer Perceptron are employed to evaluate forest fire prediction performance, overcoming the challenge of data imbalance through changes in spatial resolution, spatio-subsamping, and downsampling techniques. XGBoost exhibits results with an ROC-AUC score of 87.2% and a sensitivity of 75%.Using meteorological data and fire history improves prediction, demonstrating big data and machine learning’s role in addressing forest fire challenges."
         },
         {
+            "id":8,
             "title":"Big Data Synthesis and Class Imbalance Rectification for Enhanced Forest Fire Classification Modeling",
             "authors":"Fatemeh Tavakoli. and Kshirasagar Naik. and Marzia Zaman. and Richard Purcell. and Srinivas Sampalli. and Abdul Mutakabbir. and Chung{-}Horng Lung. and Thambirajah Ravichandran.",
             "booktitle":"Proceedings of the 16th International Conference on Agents and Artificial Intelligence",
@@ -73,6 +78,7 @@
             "abstract":"Forest fires have been escalating in frequency and intensity across Canada in recent times. This study employs machine learning techniques and builds a dataset framework utilizing Copernicus climate reanalysis data combined with historical fire data to develop a fire classification framework. Three algorithms, Random Forest, XGBoost, and LightGBM, were evaluated. Given the pronounced class imbalance of 154:1 between “non-fire” and “fire” events, we rigorously employed two re-sampling strategies: Spatiotemporal, focusing on spatial and seasonal considerations, and Technique-Driven, leveraging advanced algorithmic approaches. Ultimately, XGBoost combined with NearMiss Version 3 in a 0.09 sampling ratio between “non-fire” and “fire” events yielded the best results: 98.08% precision, 86.06% sensitivity, and 93.03% specificity."
         },
         {
+            "id":10,
             "title": "A Federated Learning Framework based on Spatio-Temporal Agnostic Subsampling (STAS) for Forest Fire Prediction",
             "authors":"Mutakabbir, Abdul and Lung, Chung-Horng and Ajila, Samuel A. and Zaman, Marzia and Naik, Kshirasagar and Purcell, Richard and Sampalli, Srinivas",
             "doi": "10.1109/COMPSAC61105.2024.00056",
@@ -85,6 +91,7 @@
             "logo": "https://ieeecompsac.computer.org/2023/wp-content/uploads/sites/14/2023/05/cropped-compsac_white-150x150.png"
         },
         {
+            "id":11,
             "authors":"Purcell, Richard and Naik, Kshirasagar and Zaman, Marzia and Lung, Chung-Horng and Sampalli, Srinivas and Mutakabbir, Abdul and Singh Dhindsa, Manavjit and Das, Ursula",
             "booktitle":"IEEE World Forum on Internet of Things", 
             "title":"IoT Sensor Deployment in the Wildland-Urban Interface: Leveraging Fire Risk Analysis", 
