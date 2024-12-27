@@ -82,6 +82,20 @@
             "pages": "350-359",
             "location": "Osaka, Japan",
             "logo": "https://ieeecompsac.computer.org/2023/wp-content/uploads/sites/14/2023/05/cropped-compsac_white-150x150.png"
-        }
+        },
+        {
+            "authors":"Purcell, Richard and Naik, Kshirasagar and Zaman, Marzia and Lung, Chung-Horng and Sampalli, Srinivas and Mutakabbir, Abdul and Singh Dhindsa, Manavjit and Das, Ursula",
+            "booktitle":"IEEE World Forum on Internet of Things", 
+            "title":"IoT Sensor Deployment in the Wildland-Urban Interface: Leveraging Fire Risk Analysis", 
+            "year":"2024",
+            "volume":"",
+            "number":"",
+            "publisherShort":"WF-IoT",
+            "pages":"864-869",
+            "location": "Ottawa, Canada",
+            "abstract":"This paper investigates algorithms for distributing Internet of Things sensors within the Wildland-Urban Interface to enhance early wildland fire detection. Using geospatial data analysis and a validated wildland fire growth model, we generated burn maps to guide sensor placement strategies across a defined region. We evaluated even grid distribution, random distributions, and genetic algorithm-based methods, testing each against 50,000 burn maps with sensor counts ranging from 50 to 800. Results indicate that while even grid distribution achieved the highest detection rates, its practicality in real-world applications is limited. Genetic algorithms showed promise but require further exploration to simulate field deployment accurately. Notably, weighting sensor placement based on wildland fire growth risk did not significantly impact detection effectiveness, highlighting the need for further research into the representativeness of burn maps.",
+            "keywords":"wildfire detection; sensor distribution; IoT; wildland-urban interface; multi-objective optimization", 
+            "doi":""
+        },
     ]
 }
