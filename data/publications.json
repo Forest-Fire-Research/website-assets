@@ -107,7 +107,7 @@
             "abstract":"This paper investigates algorithms for distributing Internet of Things sensors within the Wildland-Urban Interface to enhance early wildland fire detection. Using geospatial data analysis and a validated wildland fire growth model, we generated burn maps to guide sensor placement strategies across a defined region. We evaluated even grid distribution, random distributions, and genetic algorithm-based methods, testing each against 50,000 burn maps with sensor counts ranging from 50 to 800. Results indicate that while even grid distribution achieved the highest detection rates, its practicality in real-world applications is limited. Genetic algorithms showed promise but require further exploration to simulate field deployment accurately. Notably, weighting sensor placement based on wildland fire growth risk did not significantly impact detection effectiveness, highlighting the need for further research into the representativeness of burn maps.",
             "keywords":"wildfire detection; sensor distribution; IoT; wildland-urban interface; multi-objective optimization", 
             "logo":"https://wfiot2024.iot.ieee.org/sites/wfiot2024.iot.ieee.org/files/ieee_wfiot_0.png",
-            "doi":"",
+            "doi":""
         }
     ]
 }
