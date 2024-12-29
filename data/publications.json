@@ -77,7 +77,8 @@
             "doi":"10.5220/0012363000003636",
             "isbn":"978-989-758-680-4",
             "issn":"2184-433X",
-            "abstract":"Forest fires have been escalating in frequency and intensity across Canada in recent times. This study employs machine learning techniques and builds a dataset framework utilizing Copernicus climate reanalysis data combined with historical fire data to develop a fire classification framework. Three algorithms, Random Forest, XGBoost, and LightGBM, were evaluated. Given the pronounced class imbalance of 154:1 between “non-fire” and “fire” events, we rigorously employed two re-sampling strategies: Spatiotemporal, focusing on spatial and seasonal considerations, and Technique-Driven, leveraging advanced algorithmic approaches. Ultimately, XGBoost combined with NearMiss Version 3 in a 0.09 sampling ratio between “non-fire” and “fire” events yielded the best results: 98.08% precision, 86.06% sensitivity, and 93.03% specificity."
+            "logo": "https://insticc.org/images/wise/events/3636/banners/web.png",
+            "abstract":"Forest fires have been escalating in frequency and intensity across Canada in recent times. This study employs machine learning techniques and builds a dataset framework utilizing Copernicus climate reanalysis data combined with historical fire data to develop a fire classification framework. Three algorithms, Random Forest, XGBoost, and LightGBM, were evaluated. Given the pronounced class imbalance of 154:1 between “non-fire” and “fire” events, we rigorously employed two re-sampling strategies: Spatiotemporal, focusing on spatial and seasonal considerations, and Technique-Driven, leveraging advanced algorithmic approaches. Ultimately, XGBoost combined with NearMiss Version 3 in a 0.09 sampling ratio between non-fire and fire events yielded the best results: 98.08% precision, 86.06% sensitivity, and 93.03% specificity."
         },
         {
             "id":10,
@@ -90,7 +91,6 @@
             "year": 2024,
             "pages": "350-359",
             "location": "Osaka, Japan",
-            "logo": "https://insticc.org/images/wise/events/3636/banners/web.png",
             "logo": "https://ieeecompsac.computer.org/2023/wp-content/uploads/sites/14/2023/05/cropped-compsac_white-150x150.png"
         },
         {
