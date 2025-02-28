@@ -108,6 +108,22 @@
             "keywords":"wildfire detection; sensor distribution; IoT; wildland-urban interface; multi-objective optimization", 
             "logo":"https://wfiot2024.iot.ieee.org/sites/wfiot2024.iot.ieee.org/files/ieee_wfiot_0.png",
             "doi":"10.1109/WF-IoT62078.2024.10811141"
+        },
+        {
+            "id":12,
+            "authors":"Mutakabbir, Abduland Lung, Chung-Horng and Naik, Kshirasagar and Zaman, Marzia and Ajila, Samuel A. and Purcell, Richard and Sampalli, Srinivas",
+            "booktitle":"Sensors", 
+            "title":"Spatio-Temporal Agnostic Sampling for Imbalanced Multivariate Seasonal Time Series Data: A Study on Forest Fires", 
+            "year":2025,
+            "volume":"25",
+            "number":"792",
+            "publisherShort":"MDPI-Sensors",
+            "pages":"",
+            "location": "Open Access",
+            "abstract":"Natural disasters are mostly seasonal and caused by anthropological, climatic, and geological factors that impact human life, economy, ecology, and natural resources. This paper focuses on increasingly widespread forest fires, causing greater destruction in recent years. Data obtained from sensors for predicting forest fires and assessing fire severity, i.e., area burned, are multivariate, seasonal, and highly imbalanced with a ratio of 100,000+ non-fire events to 1 fire event. This paper presents Spatio-Temporal Agnostic Sampling (STAS) to overcome the challenge of highly imbalanced data. This paper first presents a mathematical understanding of fire and non-fire events and then a thorough complexity analysis of the proposed STAS framework and two existing methods, NearMiss and SMOTE. Further, to investigate the applicability of STAS, binary classification models (to determine the probability of forest fire) and regression models (to assess the severity of forest fire) were built on the data generated from STAS. A total of 432 experiments were conducted to validate the robustness of the STAS parameters. Additional experiments with a temporal data split were conducted to further validate the results. The results show that 180 of the 216 binary classification models had an 𝐹1𝑠𝑐𝑜𝑟𝑒>0.9 and 150 of the 216 regression models had an 𝑅2𝑠𝑐𝑜𝑟𝑒>0.75. These results indicate the applicability of STAS for fire prediction with highly imbalanced multivariate seasonal time series data.",
+            "keywords":"sensors; under-sampling; deep learning; big data analytics; natural fire disasters; climate change; evolving data; real-time data sampling; nearmiss; SMOTE; multivariate time series", 
+            "logo":"https://pub.mdpi-res.com/img/journals/sensors-logo.png?8600e93ff98dbf14",
+            "doi":"10.3390/s25030792"
         }
     ]
 }
