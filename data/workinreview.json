@@ -42,7 +42,7 @@
             "number":null,
             "pages":"",
             "keywords":"",
-            "abstract": "",
+            "abstract": " The Wildland-Urban Interface (WUI) poses a major challenge for wildfire detection due to complex terrain and shifting risk patterns, where existing solutions (e.g., random, greedy, or genetic algorithms) often struggle at large scales or in dynamic conditions. This study introduces a dynamic, burn-probability-driven grid-based IoT sensor deployment strategy that adapts sensor placement to local fire risk distributions. Tested against random and greedy baselines in two geographically distinct Canadian regions—Halifax Regional Municipality (HRM) and Kelowna—our approach boosts detection rates by up to 35% over traditional methods, improving adaptability and efficiency in complex landscapes. By systematically integrating burn probability into sensor placement decisions, the proposed method offers a scalable, data-driven framework for IoT-based wildfire monitoring, supporting smart city resilience and adaptive risk management. Although this paper emphasizes spatial sensor deployment, future work should address cost optimization and routing strategies for dynamic sensor relocation to further enhance WUI wildfire detection.",
             "doi":"",
             "publisherShort": "Discover",
             "location": "Open Access",
