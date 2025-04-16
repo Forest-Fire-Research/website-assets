@@ -1,7 +1,20 @@
 {
     "papers" : [
         {
-            "id":1
+            "id":1,
+            "title":"", 
+            "authors":"",
+            "publisher":"", 
+            "year": null,  
+            "volume":null,
+            "number":null,
+            "pages":"",
+            "keywords":"",
+            "abstract": "",
+            "doi":"",
+            "publisherShort": "",
+            "location": "",
+            "logo": ""
         }
     ]
 }
