@@ -1,5 +1,84 @@
 {
     "papers" : [
-        
+        {
+            "id":1,
+            "title":"Predicting Wildfire Burned Areas: A Graph Neural Network-based Approach", 
+            "authors":"Singh Dhindsa, Manavjit and Das, Ursula and Naik, Kshirasagar and Ho, Pin-Han and Zaman, Marzia and Lung, Chung-Horng and Sampalli, Srinivas and Ravichandran, Thambirajah",
+            "publisher":"IEEE 49th Annual Computers, Software, and Applications Conference", 
+            "year":2025,  
+            "volume":null,
+            "number":null,
+            "pages":"",
+            "keywords":"",
+            "abstract": "Wildfire incidents have exhibited an alarming surge in frequency as well as severity in recent years highlighting the need for advanced technologies to predict wildfire behavior in advance and mitigate its impact. In recent years, the enormous strides in machine learning research coupled with the increased availability of wildfire data and computational resources have fueled the rise of data-driven approaches in wildfire management. The prediction of wildfire behavior over time, such as the burned area has been largely underexplored. This study aims to advance data-driven methods for predicting wildfire behavior during the active fire stage and aid in timely decision making and resource allocation efforts by adopting a Graph Neural Network based framework for predicting the burned area resulting from a wildfire ignition. While CNN-based architectures have been widely employed to model wildfire behaviour, these architectures impose specific limitations on geospatial data due to their reliance on fixed-size inputs and local receptive fields. Graph Neural Network (GNNs), have shown success in capturing the long-range dependencies and irregular-sized inputs inherent in geospatial data, such as wildfires, making them a viable alternative to CNNs. To this end, a GNN-based approach is adopted to model wildfire burned area prediction. The results obtained through various experiments illustrate the efficacy of Graph Neural Networks in modeling wildfire behavior by effectively capturing spatial dependencies.",
+            "doi":"",
+            "publisherShort": "COMPSAC",
+            "location": "Toronto, Canada",
+            "logo": "https://ieeecompsac.computer.org/2023/wp-content/uploads/sites/14/2023/05/cropped-compsac_white-150x150.png"
+        },
+        {
+            "id":2,
+            "title":"Vi-Net: A Hybrid Semantic Segmentation Approach for Enhanced Wildfire Spread Prediction", 
+            "authors":"Singh Dhindsa, Manavjit and Naik, Kshirasagar and Ho, Pin-Han and Zaman, Marzia and Lung, Chung-Horng and Sampalli, Srinivas and Ravichandran, Thambirajah",
+            "publisher":"IEEE 49th Annual Computers, Software, and Applications Conference", 
+            "year":2025,  
+            "volume":null,
+            "number":null,
+            "pages":"",
+            "keywords":"",
+            "abstract": "Forest fires are increasingly frequent due to climate change, necessitating accurate spread prediction for effective management. This paper introduces Vi-Net, a hybrid deeplearning model combining U-Net’s localized precision with Vision Transformers’ (ViT) long-range awareness for next-day wildfire spread prediction. Using a decade-long multimodal dataset from the United States, including temperature, wind, humidity, elevation, and vegetation indices, Vi-Net addresses class imbalance (less than 5% “fire” points) with Focal Tversky Loss (FTL) to improve predictions. Vi-Net achieves an F1 score of 97.25% and IoU of 94.15%, showcasing precise modeling of wildfire dynamics. These results underscore the potential of hybrid models for enhancing wildfire mitigation and resource optimization",
+            "doi":"",
+            "publisherShort": "COMPSAC",
+            "location": "Toronto, Canada",
+            "logo": "https://ieeecompsac.computer.org/2023/wp-content/uploads/sites/14/2023/05/cropped-compsac_white-150x150.png"
+        },
+        {
+            "id":3,
+            "title":"A Dynamic, Burn Probability–Driven IoT Sensor Deployment Strategy for Wildfire Detection in the Wildland-Urban Interface", 
+            "authors":"Purcell, Richard and Naik, Kshirasagar and Zaman, Marzia and Lung, Chung-Horng and Sampalli, Srinivas and Mutakabbir, Abdul and Singh Dhindsa, Manavjit and Das, Ursula",
+            "publisher":"Discover Internet of Things", 
+            "year":2025,  
+            "volume":null,
+            "number":null,
+            "pages":"",
+            "keywords":"",
+            "abstract": "",
+            "doi":"",
+            "publisherShort": "Discover",
+            "location": "Open Access",
+            "logo": "https://link.springer.com/oscar-static/images/brand-hubs/discover-logo-a22016eed8.svg"
+        },
+        {
+            "id":4,
+            "title":"Vegetation Land Cover and Forest Fires in Canada: An Analytical Data Visualization", 
+            "authors":"Mutakabbir, Abdul and Lung, Chung-Horng and Zaman, Marzia and Naik, Kshirasagar and Purcell, Richard and Sampalli, Srinivas and Ravichandran, Thambirajah",
+            "publisher":"IEEE 49th Annual Computers, Software, and Applications Conference", 
+            "year":2025,  
+            "volume":null,
+            "number":null,
+            "pages":"",
+            "keywords":"",
+            "abstract": "",
+            "doi":"",
+            "publisherShort": "COMPSAC",
+            "location": "Toronto, Canada",
+            "logo": "https://ieeecompsac.computer.org/2023/wp-content/uploads/sites/14/2023/05/cropped-compsac_white-150x150.png"
+        },
+        {
+            "id":5,
+            "title":"A Visual Statistical Insight into the Post-Wildfire Growth of Different Fuel Types in Canada", 
+            "authors":"Mutakabbir, Abdul and Lung, Chung-Horng and Zaman, Marzia and Naik, Kshirasagar and Purcell, Richard and Sampalli, Srinivas and Ravichandran, Thambirajah",
+            "publisher":"IEEE 26th International Conference on Information Reuse and Integration for Data Science", 
+            "year":2025,  
+            "volume":null,
+            "number":null,
+            "pages":"",
+            "keywords":"",
+            "abstract": "Over time, after vegetation and forests burn, the natural growth of new vegetation and forest emerges. The newly grown vegetation in forests may act as fuel for potential future fires. Fuel type data is needed for the Fire Behavior Prediction (FBP) system, which is a part of the Canadian Wildland Fire Information System (CWFIS). CWFIS, with the help of FBP, provides critical information on forest fires and wildfires across Canada. This study aims to apply data science to the fuel type data critical to the FBP system and derive reusable informational insights that can be used by future researchers. The study provides information at a provincial scale for the entire Canadian geographic boundary. Based on our analysis of the data, we revealed that remote sensing sources take at least a year to identify new vegetation. Further, this research investigates the regrowth of different fuel types over the years and identifies Ontario and Saskatchewan to be at a higher risk of reburn while Alberta and Quebec have a lower risk.",
+            "doi":"",
+            "publisherShort": "IRI",
+            "location": "Callifornia, United States",
+            "logo": "https://homepages.uc.edu/~niunn/IRI24/css/images/siri.png"
+        }
     ]
 }
