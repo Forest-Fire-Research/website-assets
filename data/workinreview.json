@@ -58,7 +58,7 @@
             "number":null,
             "pages":"",
             "keywords":"",
-            "abstract": "",
+            "abstract": "Forest fires or wildfires are becoming more prevalent across Canada. They are both beneficial and harmful. They promote forest health and aid ecological processes. However, they play a devastating role in impacting the economy of a nation and also impact the health of humans. Hence, it is important to consider all data sources relevant to forest fires or wildfires. The Canadian Wildland Fire Information System (CWFIS) calculates the danger of forest fires. The Canadian Forest Fire Weather Index (FWI) System is a critical part of CWFIS, which does not consider land vegetation in its calculations. Considering it is the vegetation that burns in a forest fire, it is important to have an insight into what types of vegetation are more prone to fires. In recent years, earth observation and remote sensing data for vegetation over the land cover is available across North America. This research is primarily focused on providing a visual data analytics of the vegetation land cover. We look into open-source vegetation land cover data and provide insights in regards to forest fires or wildfires. A look into the change of vegetation is also provided.",
             "doi":"",
             "publisherShort": "COMPSAC",
             "location": "Toronto, Canada",
