@@ -124,6 +124,54 @@
             "keywords":"sensors; under-sampling; deep learning; big data analytics; natural fire disasters; climate change; evolving data; real-time data sampling; nearmiss; SMOTE; multivariate time series", 
             "logo":"https://pub.mdpi-res.com/img/journals/sensors-logo.png?8600e93ff98dbf14",
             "doi":"10.3390/s25030792"
+        },
+        {
+            "id":13,
+            "title":"Predicting Wildfire Burned Areas: A Graph Neural Network-based Approach", 
+            "authors":"Singh Dhindsa, Manavjit and Das, Ursula and Naik, Kshirasagar and Ho, Pin-Han and Zaman, Marzia and Lung, Chung-Horng and Sampalli, Srinivas and Ravichandran, Thambirajah",
+            "publisher":"IEEE 49th Annual Computers, Software, and Applications Conference", 
+            "year":2025,  
+            "volume":null,
+            "number":null,
+            "pages":"330-339",
+            "keywords":"Deep learning; Wildfires; Computational modeling; Ignition; Predictive models; Graph neural networks; Spatial databases; Software; Geospatial analysis; Resource management; Graph Neural Networks; Wildfire; Burned Area Prediction; Segmentation;Data Imbalance;Deep Learning",
+            "abstract": "Wildfire incidents have exhibited an alarming surge in frequency as well as severity in recent years highlighting the need for advanced technologies to predict wildfire behavior in advance and mitigate its impact. In recent years, the enormous strides in machine learning research coupled with the increased availability of wildfire data and computational resources have fueled the rise of data-driven approaches in wildfire management. The prediction of wildfire behavior over time, such as the burned area has been largely underexplored. This study aims to advance data-driven methods for predicting wildfire behavior during the active fire stage and aid in timely decision making and resource allocation efforts by adopting a Graph Neural Network based framework for predicting the burned area resulting from a wildfire ignition. While CNN-based architectures have been widely employed to model wildfire behaviour, these architectures impose specific limitations on geospatial data due to their reliance on fixed-size inputs and local receptive fields. Graph Neural Network (GNNs), have shown success in capturing the long-range dependencies and irregular-sized inputs inherent in geospatial data, such as wildfires, making them a viable alternative to CNNs. To this end, a GNN-based approach is adopted to model wildfire burned area prediction. The results obtained through various experiments illustrate the efficacy of Graph Neural Networks in modeling wildfire behavior by effectively capturing spatial dependencies.",
+            "doi":"10.1109/COMPSAC65507.2025.00053",
+            "publisherShort": "COMPSAC",
+            "location": "Toronto, Canada",
+            "logo": "https://ieeecompsac.computer.org/2025/wp-content/uploads/sites/15/2024/06/compsac-logo-400x400-1.png"
+        },
+        {
+            "id":14,
+            "title":"Vi-Net: A Hybrid Semantic Segmentation Approach for Enhanced Wildfire Spread Prediction", 
+            "authors":"Singh Dhindsa, Manavjit and Naik, Kshirasagar and Ho, Pin-Han and Zaman, Marzia and Lung, Chung-Horng and Sampalli, Srinivas and Ravichandran, Thambirajah",
+            "publisher":"IEEE 49th Annual Computers, Software, and Applications Conference", 
+            "year":2025,  
+            "volume":null,
+            "number":null,
+            "pages":"312-317",
+            "keywords":"Deep learning; Computer vision; Wildfires; Semantic segmentation; Weather forecasting; Vegetation; Predictive models; Transformers; Software; Context modeling; Wildfires; U-Net; Vision Transformer; Deep learning; Wildfire spread prediction; Semantic segmentation",
+            "abstract": "Forest fires are increasingly frequent due to climate change, necessitating accurate spread prediction for effective management. This paper introduces Vi-Net, a hybrid deeplearning model combining U-Net’s localized precision with Vision Transformers’ (ViT) long-range awareness for next-day wildfire spread prediction. Using a decade-long multimodal dataset from the United States, including temperature, wind, humidity, elevation, and vegetation indices, Vi-Net addresses class imbalance (less than 5% “fire” points) with Focal Tversky Loss (FTL) to improve predictions. Vi-Net achieves an F1 score of 97.25% and IoU of 94.15%, showcasing precise modeling of wildfire dynamics. These results underscore the potential of hybrid models for enhancing wildfire mitigation and resource optimization",
+            "doi":"10.1109/COMPSAC65507.2025.00050",
+            "publisherShort": "COMPSAC",
+            "location": "Toronto, Canada",
+            "logo": "https://ieeecompsac.computer.org/2025/wp-content/uploads/sites/15/2024/06/compsac-logo-400x400-1.png"
+        },
+        {
+            "id":15,
+            "title":"Vegetation Land Cover and Forest Fires in Canada: An Analytical Data Visualization", 
+            "authors":"Mutakabbir, Abdul and Lung, Chung-Horng and Zaman, Marzia and Naik, Kshirasagar and Purcell, Richard and Sampalli, Srinivas and Ravichandran, Thambirajah",
+            "publisher":"IEEE 49th Annual Computers, Software, and Applications Conference", 
+            "year":2025,  
+            "volume":null,
+            "number":null,
+            "pages":"411-420",
+            "keywords":"Earth; Grasslands; Visualization; Wildfires; Data analysis; Soft sensors; Land surface; Vegetation mapping; Data visualization; Forestry; vegetation; wildfire; data analytics; data visualization; remote sensing; earth observation; climate change",
+            "abstract": "Forest fires or wildfires are becoming more prevalent across Canada. They are both beneficial and harmful. They promote forest health and aid ecological processes. However, they play a devastating role in impacting the economy of a nation and also impact the health of humans. Hence, it is important to consider all data sources relevant to forest fires or wildfires. The Canadian Wildland Fire Information System (CWFIS) calculates the danger of forest fires. The Canadian Forest Fire Weather Index (FWI) System is a critical part of CWFIS, which does not consider land vegetation in its calculations. Considering it is the vegetation that burns in a forest fire, it is important to have an insight into what types of vegetation are more prone to fires. In recent years, earth observation and remote sensing data for vegetation over the land cover is available across North America. This research is primarily focused on providing a visual data analytics of the vegetation land cover. We look into open-source vegetation land cover data and provide insights in regards to forest fires or wildfires. A look into the change of vegetation is also provided.",
+            "doi":"10.1109/COMPSAC65507.2025.00061",
+            "publisherShort": "COMPSAC",
+            "location": "Toronto, Canada",
+            "logo": "https://ieeecompsac.computer.org/2025/wp-content/uploads/sites/15/2024/06/compsac-logo-400x400-1.png"
         }
     ]
 }
