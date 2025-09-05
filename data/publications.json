@@ -172,6 +172,22 @@
             "publisherShort": "COMPSAC",
             "location": "Toronto, Canada",
             "logo": "https://ieeecompsac.computer.org/2025/wp-content/uploads/sites/15/2024/06/compsac-logo-400x400-1.png"
+        },
+        {
+            "id":16,
+            "title":"A Systematic Machine Learning Methodology for Enhancing Accuracy and Reducing Computational Complexity in Forest Fire Detection", 
+            "authors":"Zaman, Marzia and Upadhyay, Darshana and Purcell, Richard and Mutakabbir, Abdul and Sampalli, Srinivas and Lung, Chung-Horng and Naik, Kshirasagar",
+            "booktitle":"Fire", 
+            "year":2025,  
+            "volume":8,
+            "number":341,
+            "pages":"",
+            "keywords":"Forest Fire Detection; Machine Learning; Normalization; Model-Built Feature Importance (MBFI); Recursive Feature Elimination (RFE); Oversampling; Ablation; Modeling",
+            "abstract": "Given the critical importance of timely forest fire detection to mitigate environmental and socio-economic consequences, this research aims to achieve high detection accuracy while maintaining real-time operational efficiency, with a particular focus on minimizing computational complexity. We propose a novel framework that systematically integrates normalization, feature selection, adaptive oversampling, and classifier optimization to enhance detection performance while minimizing computational overhead. The evaluation is conducted using three distinct Canadian forest fire datasets: Alberta Forest Fire (AFF), British Columbia Forest Fire (BCFF), and Saskatchewan Forest Fire (SFF). Initial classifier benchmarking identified the best-performing tree-based model, followed by normalization and feature selection optimization. Next, four oversampling methods were evaluated to address class imbalance. An ablation study quantified the contribution of each module to overall performance. Our targeted, stepwise strategy eliminated the need for exhaustive model searches, reducing computational cost by 97.75% without compromising accuracy. Experimental results demonstrate substantial improvements in F1-score, AFF (from 69.12% to 82.75%), BCFF (61.95% to 77.91%), and SFF (90.03% to 96.18%) alongside notable reductions in False Negative Rates compared to baseline models.",
+            "doi":"10.3390/fire8090341",
+            "publisherShort": "MDPI-Fire",
+            "location": "Open Access",
+            "logo": "https://pub.mdpi-res.com/img/journals/fire-logo.png?8600e93ff98dbf14"
         }
     ]
 }
