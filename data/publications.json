@@ -111,7 +111,7 @@
         },
         {
             "id":12,
-            "authors":"Mutakabbir, Abduland Lung, Chung-Horng and Naik, Kshirasagar and Zaman, Marzia and Ajila, Samuel A. and Purcell, Richard and Sampalli, Srinivas",
+            "authors":"Mutakabbir, Abdul and Lung, Chung-Horng and Naik, Kshirasagar and Zaman, Marzia and Ajila, Samuel A. and Purcell, Richard and Sampalli, Srinivas",
             "booktitle":"Sensors", 
             "title":"Spatio-Temporal Agnostic Sampling for Imbalanced Multivariate Seasonal Time Series Data: A Study on Forest Fires", 
             "year":2025,
@@ -188,6 +188,21 @@
             "publisherShort": "MDPI-Fire",
             "location": "Open Access",
             "logo": "https://pub.mdpi-res.com/img/journals/fire-logo.png?8600e93ff98dbf14"
-        }
+        },
+        {
+            "id":17,
+            "title":"Toward a Universal Sensor: Predictive Inference for Adaptive Sensing in Wildfires",
+            "authors":"Purcell, Richard and Naik, Kshirasagar and Zaman, Marzia and Lung, Chung-Horng and Upadhyay, Darshana and Mutakabbir, Abdul and Sampalli, Srinivas",
+            "booktitle":"IEEE Sensors Journal", 
+            "year":2025,  
+            "volume":null,
+            "number":null,
+            "pages":"",
+            "keywords":"Sensors; Real-time systems; Wildfires; Sensor phenomena and characterization; Sensor fusion; Chemical sensors; Uncertainty; Predictive models; Monitoring; Optical sensors; Predictive processing; adaptive sensing; real-time reconfiguration; sensor fusion; multi-resolution encoding; policy memory; environmental monitoring; wildfire detection",
+            "abstract": "Given the critical importance of timely forest fire detection to mitigate environmental and socio-economic consequences, this research aims to achieve high detection accuracy while maintaining real-time operational efficiency, with a particular focus on minimizing computational complexity. We propose a novel framework that systematically integrates normalization, feature selection, adaptive oversampling, and classifier optimization to enhance detection performance while minimizing computational overhead. The evaluation is conducted using three distinct Canadian forest fire datasets: Alberta Forest Fire (AFF), British Columbia Forest Fire (BCFF), and Saskatchewan Forest Fire (SFF). Initial classifier benchmarking identified the best-performing tree-based model, followed by normalization and feature selection optimization. Next, four oversampling methods were evaluated to address class imbalance. An ablation study quantified the contribution of each module to overall performance. Our targeted, stepwise strategy eliminated the need for exhaustive model searches, reducing computational cost by 97.75% without compromising accuracy. Experimental results demonstrate substantial improvements in F1-score, AFF (from 69.12% to 82.75%), BCFF (61.95% to 77.91%), and SFF (90.03% to 96.18%) alongside notable reductions in False Negative Rates compared to baseline models.",
+            "doi":"10.1109/JSEN.2025.3600296",
+            "publisherShort": "IEEE Sensors",
+            "location": "Open Access",
+            "logo":"https://ieee-sensors.org/wp-content/uploads/2022/09/IEEE-Sensors-Council-Logo-300x67.png"
     ]
 }
