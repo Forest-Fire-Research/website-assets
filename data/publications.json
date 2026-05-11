@@ -204,6 +204,38 @@
             "publisherShort": "IEEE Sensors",
             "location": "Open Access",
             "logo":"https://ieee-sensors.org/wp-content/uploads/2022/09/IEEE-Sensors-Council-Logo-300x67.png"
+        },
+        {
+            "id":18,
+            "title":"NOAH: A Multi-Modal and Sensor Fusion Dataset for Generative Modeling in Remote Sensing",
+            "authors":"Mutakabbir, Abdul and Lung, Chung-Horng and Zaman, Marzia and Upadhyay, Darshana and Naik, Kshirasagar and Millard, Koreen and Ravichandran, Thambirajah and Purcell, Richard",
+            "booktitle":"Remote Sensing", 
+            "year":2025,  
+            "volume":null,
+            "number":null,
+            "pages":"",
+            "keywords":"soft sensors; generative AI; generative modeling; weather modeling; climate change modeling; sensor fusion; multimodal representation; multi-modal dataset; multi-modality images; multi-modality downstream tasks",
+            "abstract": "Earth Observation (EO) and Remote Sensing (RS) data are widely used in various fields, including weather, environment, and natural disaster modeling and prediction. EO and RS done through geostationary satellite constellations in fields such as these are limited to a smaller region, while sun synchronous satellite constellations have discontinuous spatial and temporal coverage. This limits the ability of EO and RS data for near-real-time weather, environment, and natural disaster applications. To address these limitations, we introduce Now Observation Assemble Horizon (NOAH), a multi-modal, sensor fusion dataset that combines Ground-Based Sensors (GBS) of weather stations with topography, vegetation (land cover, biomass, and crown cover), and fuel types data from RS data sources. NOAH is collated using publicly available data from Environment and Climate Change Canada (ECCC), Spatialized CAnadian National Forest Inventory (SCANFI) and United States Geological Survey (USGS), which are well-maintained, documented, and reliable. Applications of the NOAH dataset include, but are not limited to, expanding RS data tiles, filling in missing data, and super-resolution of existing data sources. Additionally, Generative Artificial Intelligence (GenAI) or Generative Modeling (GM) can be applied for near-real-time model-generated or synthetic estimate data for disaster modeling in remote locations. This can complement the use of existing observations by field instruments, rather than replacing them. UNet backbone with Feature-wise Linear Modulation (FiLM) injection of GBS data was used to demonstrate the initial proof-of-concept modeling in this research. This research also lists ideal characteristics for GM or GenAI datasets for RS. The code and a subset of the NOAH dataset (NOAH mini) are made open-sourced.",
+            "doi":"10.3390/rs18030466",
+            "publisherShort": "MDPI-Remote Sensing",
+            "location": "Open Access",
+            "logo":"https://pub.mdpi-res.com/img/journals/remotesensing-logo.png?1ace5a4b6c47121d"
+        },
+        {
+            "id":19,
+            "title":"Analytical Visualization of Geographical Data for Post-Wildfire Growth of Fuel Types in Canada", 
+            "authors":"Mutakabbir, Abdul and Lung, Chung-Horng and Zaman, Marzia and Naik, Kshirasagar and Purcell, Richard and Sampalli, Srinivas and Ravichandran, Thambirajah",
+            "publisher":"IEEE 50th Annual Computers, Software, and Applications Conference", 
+            "year":2026,  
+            "volume":null,
+            "number":null,
+            "pages":"",
+            "keywords":"Forest Management; Forest Fire; Data Analysis; Data Visualization; Multi-source Remote Sensing Data; Earth Observation; Fire Behaviour Prediction; National Risk Analysis",
+            "abstract": "Over time, after vegetation and forests burn, the natural growth of new vegetation and forests emerges. The newly grown vegetation in forests may act as fuel for potential future fires. Insights into the growth of future forest fuel types will help the forest management agencies and the local public to gain a better understanding of risk. This study aims to generate interactive visual geographical analytical data using various Canadian data sources to derive reusable informational insights for future researchers, forest management agencies and the local public. The study provides information at a provincial scale for the entire Canadian geographic boundary. Based on our analysis of the data, we conclude that it takes at least a year for fuel types to grow to be identified as new vegetation by remote sensing sources and three years for regions to be considered for reburn. Further, this research analyzes the growth of different fuel types over the years and identifies British Columbia, Ontario, and Quebec to be at a higher risk of burn, while Nunavut has the lowest risk of burn and reburn. Finally, informative donut charts and stacked bar plots are presented for easy visualization along with an interactive website.",
+            "doi":"",
+            "publisherShort": "COMPSAC",
+            "location": "Madrid, Spain",
+            "logo": "https://ieeecompsac.computer.org/2025/wp-content/uploads/sites/15/2024/06/compsac-logo-400x400-1.png"
         }
     ]
 }
